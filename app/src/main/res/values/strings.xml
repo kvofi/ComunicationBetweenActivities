@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComunicationBetweenActivities</string>
+    <string name="nombre">Nombre</string>
+    <string name="verificar">Verificar</string>
+</resources>
